@@ -1,6 +1,8 @@
 
 # Vertex AI: Training, Serving, and Monitoring a Custom Model 
 
+- Changed the model configuration and eval metrics.
+
 ## Overview
 In this lab, we guide you through creating, training, serving, and monitoring a model using a custom container in Vertex AI. We will explore the flexibility custom containers offer in managing compute resources and model code, enabling deployment with any ML framework. The objectives include building and containerizing model training code, submitting a training job to Vertex AI, deploying the model to an endpoint, and setting up monitoring for predictions. Follow along as we dive into the process step by step.
 
